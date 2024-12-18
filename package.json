@@ -1,0 +1,20 @@
+{
+  "name": "video-processing-service",
+  "version": "1.0.0",
+  "description": "youtube clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amittai-lerer/project_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amittai-lerer/project_1/issues"
+  },
+  "homepage": "https://github.com/amittai-lerer/project_1#readme"
+}
